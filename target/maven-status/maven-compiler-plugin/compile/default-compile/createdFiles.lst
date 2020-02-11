@@ -1,0 +1,5 @@
+com\bang\entity\User.class
+com\bang\mapper\IUserMapper.class
+com\bang\service\impl\UserServiceImpl.class
+com\bang\controller\UserController.class
+com\bang\service\IUserService.class
